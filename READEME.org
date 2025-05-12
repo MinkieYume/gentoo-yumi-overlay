@@ -1,0 +1,4 @@
+#+TITLE: Gentoo Yumi Overlay
+* 自用仓库
+本仓库是自用仓库。
+This overlay is self-use overlay for yumi
