@@ -1,0 +1,12 @@
+<pkgmetadata>
+  <maintainer>
+    <email>minkieyume@gmail.com</email>
+    <name>MinkieYume</name>
+  </maintainer>
+  <longdescription>
+    Inklecate is the command-line compiler for the Ink scripting language, used in Inky and Unity integration.
+  </longdescription>
+  <upstream>
+    <remote-id type="github">inkle/ink</remote-id>
+  </upstream>
+</pkgmetadata>
